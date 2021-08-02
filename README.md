@@ -12,7 +12,7 @@ If the player fails to jump over the obstacles the game will over. After every 5
 
 ## Below are some screen shots of the Game.
 
-![FlAtBoY RuN2](https://user-images.githubusercontent.com/86248226/127909539-0b466c27-a31c-4998-8438-ae2d33434dce.png)
+![FlAtBoY RuN2](https://user-images.githubusercontent.com/86248226/127909539-0b466c27-a31c-4998-8438-ae2d33434dce.png) 
 ![FlAtBoY RuN1](https://user-images.githubusercontent.com/86248226/127909545-a931bf85-b791-4a7f-92c2-47d5de19f467.png)
 
 
