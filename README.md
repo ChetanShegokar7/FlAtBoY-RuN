@@ -10,6 +10,18 @@ In FlAtBoY RuN Game you have to jump over obstacles with random height and color
 Your player is at the left side of the screen and obstacles move towards the player from the right side of the screen.
 If the player fails to jump over the obstacles the game will over. After every 500 points level and speed of the game will increase.
 
+I have also converted the python (.py) files into windows executable format (.exe) so that anyone can play this game without 
+intsalling python and pygames on their computer.
+
+## Credits
+
+**Create By : *Chetan Shegokar*</br>
+Background Image By : *Vector Stocks {Designed by alexmstudio (Image #7926680 at VectorStock.com)}*</br>
+Character Sprites By : *Game Art 2D*</br>
+Sound Effects By : *Mixkit*</br>**
+
+
+
 ## Below are some screen shots of the Game.
 
 ![FlAtBoY RuN2](https://user-images.githubusercontent.com/86248226/127909539-0b466c27-a31c-4998-8438-ae2d33434dce.png) 
