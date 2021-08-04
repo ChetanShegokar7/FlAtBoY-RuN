@@ -37,7 +37,7 @@ Sound Effects By : *Mixkit*</br>**
 3.Now run the FlAtBoY RuN installer and tick on create desktop icon.</br>
 4.Now run FlAtBoY RuN from desktop. </br>
 
-### Method 2: (Source code Download>
+### Method 2: (Source code Download)
 
 **Note : This Method will work on any 64-bit windows and linux operating systems.</br>But the condition is your computer must have python and pygames installed on your system.**</br>
 1.Click on Code button and then click Download Zip.</br>
