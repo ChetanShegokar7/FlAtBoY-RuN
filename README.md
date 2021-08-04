@@ -30,7 +30,7 @@ Sound Effects By : *Mixkit*</br>**
 ### Method 1: (Driect install)
 
 **Note: Only for windows users.**</br>
-1.To Download the click the provided below.**</br>Download FlAtBoY RuN for Windows 64-bit [click here](https://uc5acc9d20f670411b3264dab3b5.dl.dropboxusercontent.com/zip_download_get/A21v8hSWJZp-TfcEnWtNtcZqZwVQ21UsSz0aIZOIRtDUopawi6lt8o3PUngI-sJ4W05saaiekGcv9CdYDbEmajli7QZ48xsSRdqHrijihWwHvw?_download_id=351700789667772420413585097435183446953190549935766739497085480766&_notify_domain=www.dropbox.com)**</br>
+1.To Download the click the provided below.**</br>Download FlAtBoY RuN for Windows 64-bit [click here](https://www.dropbox.com/s/4dz3qaxbrhfj6m6/FlAtBoY%20RuN.exe?dl=0)**</br>
 2.After downloading unzip the FlAtBoY RuN.rar file using winrar or any other software.</br>
 3.Now run the FlAtBoY RuN installer and tick on create desktop icon.</br>
 4.Now run FlAtBoY RuN from desktop. </br>
