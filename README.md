@@ -20,8 +20,6 @@ Background Image By : *Vector Stocks {Designed by alexmstudio (Image #7926680 at
 Character Sprites By : *Game Art 2D*</br>
 Sound Effects By : *Mixkit*</br>**
 
-
-
 ## Below are some screen shots of the Game.
 
 ![FlAtBoY RuN2](https://user-images.githubusercontent.com/86248226/127909539-0b466c27-a31c-4998-8438-ae2d33434dce.png) 
@@ -44,10 +42,8 @@ Sound Effects By : *Mixkit*</br>**
 ![Capture](https://user-images.githubusercontent.com/86248226/128147392-207ef458-a92d-4d3d-b861-cc77230eb0e5.JPG)</br>
 ![Capture1](https://user-images.githubusercontent.com/86248226/128147468-ef939611-a19e-4486-89a5-73e59e2718cc.JPG)</br>
 2.Now extract the .rar files with winrar.</br>
-3.Open extracted files and run **"FlAtBoY RuN.py"** file.
+3.Open extracted files and run **"FlAtBoY RuN.py"** file. 
 
-
-## 
-
+##
 https://user-images.githubusercontent.com/86248226/127912018-3664c2d3-1f35-49ed-8f33-cd2dea693d31.mp4
 
