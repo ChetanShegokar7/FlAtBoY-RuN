@@ -31,6 +31,8 @@ Sound Effects By : *Mixkit*</br>**
 
 **Note: Only for windows users.**</br>
 1.To Download the click the provided below.**</br>Download FlAtBoY RuN for Windows 64-bit [click here](https://www.dropbox.com/s/4dz3qaxbrhfj6m6/FlAtBoY%20RuN.exe?dl=0)**</br>
+![Capture11](https://user-images.githubusercontent.com/86248226/128149168-2beb4267-79bb-405f-a0f2-599b9c97484c.JPG)
+
 2.After downloading unzip the FlAtBoY RuN.rar file using winrar or any other software.</br>
 3.Now run the FlAtBoY RuN installer and tick on create desktop icon.</br>
 4.Now run FlAtBoY RuN from desktop. </br>
